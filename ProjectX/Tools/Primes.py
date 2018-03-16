@@ -8,6 +8,17 @@ def isPrime(number):
         return True
     else:
         return False
+def getPrimesSlow(n):
+    curr = 1
+    primes = []
+    while curr <=n:
+
+        if isPrime(curr):
+            if n % curr == 0:
+                primes.append(curr)
+
+        curr += 1
+    return primes
 def SieveOfEratosthenes(n):
 
     primes = []
