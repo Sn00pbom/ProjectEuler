@@ -1,4 +1,4 @@
-package me.sn00pbom.euler.problem11;
+package me.sn00pbom.euler;
 
 import java.util.ArrayList;
 import java.util.Arrays;

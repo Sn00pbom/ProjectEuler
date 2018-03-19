@@ -1,4 +1,4 @@
-package me.sn00pbom.euler.problem15;
+package me.sn00pbom.euler;
 
 public class Movement {
     int r;

@@ -1,7 +1,4 @@
-package me.sn00pbom.euler.problem19;
-import me.sn00pbom.euler.Main;
-import me.sn00pbom.euler.Main.*;
-import me.sn00pbom.euler.problem18.Problem18;
+package me.sn00pbom.euler;
 
 import java.util.ArrayList;
 
@@ -21,6 +18,7 @@ public class Problem19 {
 
 //        Main.db(new Date(1900,12,31,1).getDayOfWeek());
         Main.db(firstKnown.nextFoy());
+
 
         Main.db(numSundaysOnFirstofMonth(firstKnown,start,end));
     }

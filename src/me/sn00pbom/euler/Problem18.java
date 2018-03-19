@@ -1,4 +1,4 @@
-package me.sn00pbom.euler.problem18;
+package me.sn00pbom.euler;
 
 import java.util.ArrayList;
 import java.util.Scanner;

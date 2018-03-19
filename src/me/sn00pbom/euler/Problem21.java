@@ -1,10 +1,6 @@
-package me.sn00pbom.euler.problem21;
+package me.sn00pbom.euler;
 
 
-import me.sn00pbom.euler.Main;
-import me.sn00pbom.euler.problem19.Problem19;
-
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class Problem21 {

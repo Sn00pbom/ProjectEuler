@@ -1,6 +1,4 @@
-package me.sn00pbom.euler.problem19;
-
-import me.sn00pbom.euler.Main;
+package me.sn00pbom.euler;
 
 public class Date {
     final int year;
